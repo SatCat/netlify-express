@@ -1,7 +1,8 @@
 # Express.js on Netlify Example
 look at https://www.netlify.com/blog/2018/09/13/how-to-run-express.js-apps-with-netlify-functions/
- another example https://github.com/ethanmiller1/Netlify-Express
+    and https://css-tricks.com/building-serverless-graphql-api-in-node-with-express-and-netlify/
 
+ another example https://github.com/ethanmiller1/Netlify-Express
 
 [![Netlify
 Status](https://api.netlify.com/api/v1/badges/9aaef7de-1e5d-4fda-bc39-faa10a68b35b/deploy-status)](https://app.netlify.com/sites/netlify-express/deploys)
