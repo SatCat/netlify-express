@@ -1,4 +1,5 @@
 # Express.js on Netlify Example
+look at https://www.netlify.com/blog/2018/09/13/how-to-run-express.js-apps-with-netlify-functions/
 
 [![Netlify
 Status](https://api.netlify.com/api/v1/badges/9aaef7de-1e5d-4fda-bc39-faa10a68b35b/deploy-status)](https://app.netlify.com/sites/netlify-express/deploys)
